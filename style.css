@@ -1,0 +1,53 @@
+html {
+  position: relative;
+}
+
+body {
+  height: 500px;
+}
+
+.jumbotron img {
+  box-shadow: 5px 5px 10px #000;
+}
+
+.jumbotron {
+  height: 600px;
+  background-color: white;
+  background-size: cover;
+  padding-top: 5rem;
+  background-position: 0 -30px;
+  margin-top: -20px;
+}
+
+.display-4 {
+  padding-top: 1cm;
+  text-align: center;
+  color: black;
+}
+
+section {
+  padding-top: 4rem;
+}
+
+.lead {
+  text-align: center;
+  color: #000;
+  margin-bottom: 5rem;
+}
+
+.abcde {
+  margin-top: 25px;
+}
+
+.asdjkl {
+  padding-top: 20px;
+  margin-top: -50px;
+}
+
+footer {
+  background-color: rgb(255, 153, 207);
+}
+
+.galeri {
+  background-color: pink;
+}
